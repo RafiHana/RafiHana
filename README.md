@@ -45,6 +45,6 @@ Welcome to my GitHub profile! I'm a passionate student who loves working on **ro
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rafi-hana-prasetyo-11b65a322)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://id.linkedin.com/in/rafi-hana-prasetyo-11b65a322)
 
 Feel free to explore my repositories and let's collaborate on exciting projects! 🚀
