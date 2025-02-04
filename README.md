@@ -1,44 +1,50 @@
-<div align="center">
-  <a href="https://github.com/RafiHana">
-    <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif?cid=790b7611cdicf6hxd717ml8rvyz371fhf48jo5tzul8ez85r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px">
-  </a>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Rafi+Hana;Robotics+🤖+Enthusiast;Web+🌐+Developer;Flutter+📱+Creator" alt="Typing Animation">
-</div>
+# Hi there! 👋 I'm Rafi Hana
+
+Welcome to my GitHub profile! I'm a passionate student who loves working on **robotics**, **web development**, and **applications**. 
+
+<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif?cid=790b7611cdicf6hxd717ml8rvyz371fhf48jo5tzul8ez85r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="Coding GIF">
 
 ---
 
-### 🔥 **About Me**
-```yaml
-- 🎓 Computer Science Student
-- 🧠 Currently obsessed with: 
-  - Robotics path planning
-  - Building scalable Laravel
-  - Flutter 
-- ✉️ Reach me: rafihana25@gmail.com
+## 🚀 About Me
+- 🎓 I'm currently a student exploring the world of technology.
+- 🤖 Robotics enthusiast using **C++**.
+- 🌐 Web developer working with **Laravel**.
+- 📱 App developer using **Flutter**.
+- 🔍 Always eager to learn and collaborate on exciting projects!
 
-🛠 **Tech Arsenal**
+---
 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white&style=flat-square)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square)
+## 🛠️ Tech Stack
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
-![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?logo=laravel&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
+### 💻 Programming & Development
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
+### 🛢️ Database & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-📊 GitHub Analytics
-<div align="center"> <a href="https://github.com/RafiHana"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafiHana&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiHana&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6"/> </a> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafiHana&theme=react-dark&hide_border=true&area=true" width="100%"> </div>
+---
 
-💬 Wisdom Corner
-"The world is full of nice people. If you can't find one, be one."
-― Nishan Panwar
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafihana&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafihana&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafihana&theme=dark)
 
-<div align="center"> <h3>🌍 Let's Connect!</h3> <a href="https://linkedin.com/in/rafihana"> <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="60px"> </a> <a href="https://dev.to/rafihana"> <img src="https://img.icons8.com/3d-fluency/94/dev.png" width="60px"> </a> <a href="https://twitter.com/rafihana"> <img src="https://img.icons8.com/3d-fluency/94/twitter.png" width="60px"> </a> </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RafiHana&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile Views"> </p> 
+---
+
+## ✨ Quote of the Day
+> "The world is full of nice people. If you can't find one, be one." – Nishan Panwar
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rafi-hana-prasetyo-11b65a322)
+
+Feel free to explore my repositories and let's collaborate on exciting projects! 🚀
