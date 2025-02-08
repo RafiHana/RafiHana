@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate student who loves working on **ro
 ## 🚀 About Me
 - 🎓 I'm currently a student exploring the world of technology.
 - 🤖 Robotics enthusiast using **C++**.
-- 🌐 Web developer working with **Laravel**.
+- 🌐 Web developer working with **PHP**.
 - 📱 App developer using **Flutter**.
 - 🔍 Always eager to learn and collaborate on exciting projects! 
 
